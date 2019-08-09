@@ -35,4 +35,11 @@ elif operacao == '3':
 elif operacao == '4':
     print(numero1, "/", numero2, "=", calc.divi(numero1, numero2))
 
+
+
+
+print("teste")
+
+
+
 #elif = else # if
